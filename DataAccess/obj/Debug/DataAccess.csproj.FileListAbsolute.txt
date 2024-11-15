@@ -1,0 +1,22 @@
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\bin\Debug\DataAccess.dll
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\bin\Debug\DataAccess.pdb
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\bin\Debug\Dapper.dll
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\bin\Debug\Dapper.xml
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\obj\Debug\DataAccess.dll
+C:\Projects\DapperAndWebAPI-master\DapperAndWebAPI-master\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_WebAPI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_WebAPI\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_WebAPI\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_WebAPI\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_WebAPI\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_WebAPI\DataAccess\bin\Debug\Dapper.dll
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_WebAPI\DataAccess\bin\Debug\Dapper.xml
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_WebAPI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_WebAPI\DataAccess\bin\Debug\CommonServiceLocator.dll
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_WebAPI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
